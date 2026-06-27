@@ -14,7 +14,6 @@ The platform connects patients, doctors, pharmacies, insurance providers, teleme
 - **Live Website:** https://nourai.tech
 - **Demo Video:** [Add demo video link](https://youtu.be/uzyLa_kZNmU)
 - **System Design:** [`SYSTEM_DESIGN.md`](./SYSTEM_DESIGN.md)
-- **Validation:** [`VALIDATION.md`](./VALIDATION.md)
 - **References:** [`REFERENCES.md`](./REFERENCES.md)
 
 ---
